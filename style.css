@@ -131,7 +131,7 @@ p {
 /* Home Page */
 
 #hero {
-  background-image: url("/Images/pexels-photo-2801877.jpeg");
+  background-image: url("./Images/pexels-photo-2801877.jpeg");
   height: 90vh;
   width: 100%;
   background-size: cover;
@@ -162,7 +162,7 @@ p {
 }
 
 #hero button {
-  background-image: url("/Images/pexels-photo-1480689.jpeg");
+  background-image: url("./Images/pexels-photo-1480689.jpeg");
   background-color: transparent;
   color: white;
   border: 0;
@@ -310,7 +310,7 @@ p {
   justify-content: center;
   align-items: center;
   text-align: center;
-  background-image: url(/Images/banner\ image.jpg);
+  background-image: url(./Images/banner\ image.jpg);
   width: 100%;
   height: 40vh;
   background-size: cover;
@@ -410,7 +410,7 @@ footer .copyright {
 /* Shop Page */
 
 #page-header{
-  background-image: url(Images/pexels-photo-1487703.jpeg);
+  background-image: url(./Images/pexels-photo-1487703.jpeg);
   height: 30vh;
   background-size: cover;
   display: flex;
@@ -517,7 +517,7 @@ footer .copyright {
 /* About Page */
 
 #page-header.about-header {
-  background-image: url("/Images/about.jpg");
+  background-image: url("./Images/about.jpg");
 }
 
 #page-header.about-header h2,
